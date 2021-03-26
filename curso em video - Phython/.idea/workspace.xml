@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74cf5fd4-a2ec-4a35-8363-40224b8511a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXAWBnCKZbrzOf4raqhkNoxXfQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Trabalho" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Desafio 97 - Linhas">
+    <configuration name="Desafio 93 - cadastrode jogodor (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios em casa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/Desafio 93 - cadastrode jogodor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio 94 - União dict e list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios em casa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/Desafio 94 - União dict e list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio 95 - Aprimorando jogador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios em casa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 95 - Aprimorando jogador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio 96 - função terreno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios em casa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula 6 -Tipos Primitivos e Saída de Dados" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula 6 -Tipos Primitivos e Saída de Dados/Desafio 96 - função terreno.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio 97 - Linhas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios em casa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/Desafio 97 - Linhas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Desafio 97 - Linhas" />
+        <item itemvalue="Python.Desafio 96 - função terreno" />
+        <item itemvalue="Python.Desafio 95 - Aprimorando jogador" />
+        <item itemvalue="Python.Desafio 94 - União dict e list" />
+        <item itemvalue="Python.Desafio 93 - cadastrode jogodor (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74cf5fd4-a2ec-4a35-8363-40224b8511a6" name="Default Changelist" comment="" />
+      <created>1584975093829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584975093829</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600694057827">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="0" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.768/1024.50.1024.768@0.0.1024.768" timestamp="1600694057827" />
+    <state x="347" y="124" key="FileChooserDialogImpl" timestamp="1600732536834">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="347" y="124" key="FileChooserDialogImpl/0.0.1024.768/1024.50.1024.768@0.0.1024.768" timestamp="1600732536834" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598893017155" />
+    <state width="1003" height="192" key="GridCell.Tab.0.bottom" timestamp="1600727290863">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1003" height="192" key="GridCell.Tab.0.bottom/0.0.1024.768/1024.50.1024.768@0.0.1024.768" timestamp="1600727290863" />
+    <state width="1322" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598893279694" />
+    <state width="1003" height="192" key="GridCell.Tab.0.center" timestamp="1600727290863">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1003" height="192" key="GridCell.Tab.0.center/0.0.1024.768/1024.50.1024.768@0.0.1024.768" timestamp="1600727290863" />
+    <state width="1322" height="151" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598893279694" />
+    <state width="1003" height="192" key="GridCell.Tab.0.left" timestamp="1600727290863">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1003" height="192" key="GridCell.Tab.0.left/0.0.1024.768/1024.50.1024.768@0.0.1024.768" timestamp="1600727290863" />
+    <state width="1322" height="151" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598893279694" />
+    <state width="1003" height="192" key="GridCell.Tab.0.right" timestamp="1600727290863">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="1003" height="192" key="GridCell.Tab.0.right/0.0.1024.768/1024.50.1024.768@0.0.1024.768" timestamp="1600727290863" />
+    <state width="1322" height="151" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598893279694" />
+    <state x="263" y="98" key="IDE.errors.dialog" timestamp="1598893498296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="98" key="IDE.errors.dialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598893498296" />
+    <state x="13" y="26" key="SettingsEditor" timestamp="1600694099642">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="13" y="26" key="SettingsEditor/0.0.1024.768/1024.50.1024.768@0.0.1024.768" timestamp="1600694099642" />
+    <state x="283" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1600732528659">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="283" y="196" key="com.intellij.ide.util.TipDialog/0.0.1024.768/1024.50.1024.768@0.0.1024.768" timestamp="1600732528659" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598892924365" />
+  </component>
+</project>

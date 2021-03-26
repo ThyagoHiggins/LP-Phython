@@ -1,0 +1,10 @@
+print('*'*30)
+print('VAMOS CALCULAR A HIPOTENUSA DE UM TRIÂNGULO RETÂNGULO?')
+print('*'*30)
+
+cat1 = float(input('informe o comprimento do cateto 1: '))
+cat2 = float(input('informe o comprimento do cateto 2: '))
+hipotenusa = (cat1**2+cat2**2)**(1/2)
+print(f'A Hipotenusa desse triângulo retangulo é {hipotenusa:.2f}')
+print('FIM')
+print('-'*30)
